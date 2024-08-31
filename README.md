@@ -2,6 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Figma Link: [Fignma](<https://www.figma.com/design/G7fLmCvTHGgd7vIrwQBF3B/Hospital-Ui-(Community)?node-id=24-26131&node-type=FRAME&t=5rSYnAd4oAVq8tkR-0>)
 First, run the development server:
 
 ```bash
