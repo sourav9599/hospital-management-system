@@ -1,3 +1,4 @@
+import Doctors from "./Doctors";
 import Hero from "./Hero";
 import MedicalServices from "./MedicalServices";
 import Navbar from "./Navbar";
@@ -8,6 +9,7 @@ const Landing = () => {
       <Navbar />
       <Hero />
       <MedicalServices />
+      <Doctors />
     </div>
   );
 };
